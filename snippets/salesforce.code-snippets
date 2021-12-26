@@ -1,8 +1,5 @@
 {
-    /**
-     * My custom code snippets for Salesforce which makes life of a developer easy :)
-     * @author - Manish Choudhari
-     */
+  /* Use this snippet for salesforce development */
 
     "Package Creator": {
         "scope": "xml",
